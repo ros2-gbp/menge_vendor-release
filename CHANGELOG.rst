@@ -2,6 +2,9 @@
 Changelog for package menge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.1 (2023-12-20)
+------------------
+
 1.1.0 (2023-06-06)
 ------------------
 * First build workflow (`#9 <https://github.com/open-rmf/menge_vendor/pull/9>`_)
