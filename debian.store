@@ -1,1 +1,1 @@
-{"base": "adc4adf", "parent": "debian/rolling/menge_vendor", "previous": "9f49391", "trim": "", "trimbase": ""}
+{"base": "9ca8fe9", "parent": "debian/jazzy/menge_vendor", "previous": "60659b2", "trim": "", "trimbase": ""}
