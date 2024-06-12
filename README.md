@@ -1,3 +1,26 @@
+## menge_vendor (jazzy) - 1.2.1-1
+
+The packages in the `menge_vendor` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy menge_vendor` on `Wed, 12 Jun 2024 22:34:13 -0000`
+
+The `menge_vendor` package was released.
+
+Version of package(s) in repository `menge_vendor`:
+
+- upstream repository: https://github.com/open-rmf/menge_vendor.git
+- release repository: https://github.com/ros2-gbp/menge_vendor-release.git
+- rosdistro version: `1.2.0-3`
+- old version: `1.2.0-3`
+- new version: `1.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## menge_vendor (rolling) - 1.3.0-1
 
 The packages in the `menge_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling menge_vendor` on `Wed, 12 Jun 2024 22:23:17 -0000`
