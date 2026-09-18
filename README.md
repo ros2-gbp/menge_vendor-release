@@ -1,3 +1,26 @@
+## menge_vendor (lyrical) - 1.4.0-1
+
+The packages in the `menge_vendor` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release --rosdistro lyrical --track lyrical --edit-track menge_vendor` on `Fri, 18 Sep 2026 08:27:06 -0000`
+
+The `menge_vendor` package was released.
+
+Version of package(s) in repository `menge_vendor`:
+
+- upstream repository: https://github.com/open-rmf/menge_vendor.git
+- release repository: https://github.com/ros2-gbp/menge_vendor-release.git
+- rosdistro version: `1.3.0-3`
+- old version: `1.3.0-3`
+- new version: `1.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## menge_vendor (jazzy) - 1.2.1-1
 
 The packages in the `menge_vendor` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy menge_vendor` on `Wed, 12 Jun 2024 22:34:13 -0000`
